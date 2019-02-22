@@ -72,11 +72,10 @@ class Lib extends Library implements LibraryProp {
             System.out.println("Book Return Date: " + return_date);
         }
     }
-}
-    class ques1 {
+}    class ques1 {
         public static void main(String[] args) {
-            Lib l = new Lib("Pulkit", "9821962195", "Book1");
-            Lib l2 = new Lib("Shubham", "9572248278", "Book2");
+            Lib l = new Lib("ayush", "9690665522", "Book1");
+            Lib l2 = new Lib("arjit", "9717760551", "Book2");
             l.issueBook();
             l.returnBook();
             l.getMemberDetails();
