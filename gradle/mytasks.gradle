@@ -1,0 +1,3 @@
+task task1<< {
+print "task from mytasks.gradle "
+}
