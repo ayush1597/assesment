@@ -12,7 +12,5 @@ public class myp {
      System.out.println("enter the string to replace with");
      replace_string=input.nextLine();
 System.out.println(main_string.replace(sub_string,replace_string));
-
-
     }
 }

@@ -73,6 +73,7 @@ class Lib extends Library implements LibraryProp {
         }
     }
 }
+
     class ques1 {
         public static void main(String[] args) {
             Lib l = new Lib("ayush", "9690665522", "Book1");
